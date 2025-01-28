@@ -1,6 +1,6 @@
 // ==UserScript==
 
-// @name               Grab Your Discord Token
+// @name               My Discord Token
 
 // @description        Easily grab your Discord token with this script.
 
