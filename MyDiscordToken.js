@@ -21,7 +21,7 @@
 
     if (confirm("Would you like to grab your Discord token?")) {
 
-        prompt("Your Discord token:", token);
+        prompt("Token:", token);
     }
 
 
